@@ -71,3 +71,5 @@ src/
 ├── lib/                 # Utility functions and helpers
 demos/                   # Demo guides and templates
 ```
+
+For a contributor-focused walkthrough of the application code under `src/`, see [`PhotoGalleryAppDocs.md`](PhotoGalleryAppDocs.md).
