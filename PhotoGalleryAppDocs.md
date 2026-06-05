@@ -1,6 +1,6 @@
 # Photo Gallery App Documentation
 
-This document explains how the application under `/tmp/workspace/jagojar/copilot-intermediate-gallery-repo/src` is organized so contributors can quickly understand where features live and how the app is assembled.
+This document explains how the application under `src/` is organized so contributors can quickly understand where features live and how the app is assembled.
 
 ## Framework stack
 
